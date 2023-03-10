@@ -1,0 +1,5 @@
+{
+    "board": "adafruit:avr:gemma",
+    "programmer": "arduino:avrisp",
+    "sketch": "Superhero_Power_Plant\\Superhero_Power_Plant.ino"
+}

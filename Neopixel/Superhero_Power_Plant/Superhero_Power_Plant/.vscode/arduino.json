@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:gemma",
+    "programmer": "arduino:usbtinyisp",
+    "sketch": "Superhero_Power_Plant.ino",
+    "port": "COM4"
+}
